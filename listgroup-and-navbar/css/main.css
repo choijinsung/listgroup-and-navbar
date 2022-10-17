@@ -1,0 +1,13 @@
+.container {
+  margin-bottom: 20px;
+}
+
+.list-group-container {
+  margin-bottom: 20px;
+}
+
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
